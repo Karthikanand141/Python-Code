@@ -1,0 +1,202 @@
+Booksbay fTP(103.181.20.253)         User: 	Booksbay Pass:Ftp@111wsx
+..........................................
+Password: marston@#555
+User: marston
+Host: 103.20.212.55
+.......................................
+flipkart
+HostName = "cms.flipkart.com",
+    UserName = "4e1026ca43624d02",
+    Password = "Gelu8Pho",
+....................................
+
+
+URL: titan.booksource.net
+Protocol: SFTP
+Port: 22
+Username: 502130
+Password: m5bctGexmeA?FmzP
+
+The P&A file is in the PRODUCT folder.
+
+.................................
+
+New FTP Server For Feed
+host : 192.168.10.175
+user : daily_feed
+pswd : feed@12345
+port : 21
+
+
+----------------------------------------------------------------
+BWG Stock File FTP
+
+host : 192.168.10.175
+User Name-: bwg_stockfiles
+Password-: bwgstock@123@
+
+IPS UK
+HostName = "103.20.212.55",
+    UserName = "ingram",
+    Password = "!ngr@m@123F",
+
+wiley distribution
+
+Pass: Wiley@#777 
+User: Wiley
+Host: 103.20.212.55
+
+Baker and Taylor
+
+Address:		DL.BTOL.COM
+User Name:		PIHI
+Password:		DR56yh
+
+
+Gardner GXC FTP
+URL: ftp://edi.gardners.com
+
+Username: BWE001FTP
+
+Password: 836twBMf7x
+
+Directory: Inventory
+
+MDL
+Site = sftp.macmillan.co.uk
+Usernmae = BWECOMMERCE
+Password = pV763awZNTRWh8GE
+
+INHOUSE FTP Server root
+host : 103.181.21.249
+user : srecomm
+pasw : $Bo%ok$#@987321
+port : 21
+
+INHOUSE FTP Server Vendors
+Host-: 103.181.21.249
+User-: BWG_Vendors
+Password-: etl@54321
+
+
+INHOUSE FTP Server Feed Copy
+host : 103.181.21.249
+user : daily_feed
+pswd : feed@12345
+port : 21
+
+
+Hachett (Hodder & Flame Tree)
+SFTP server:mft.hachette.co.uk
+Username:   huk.pa.prod
+Passwrd:    Askjfdh2
+
+
+MPS
+Site: 103.20.212.139
+User ID: macmillan
+Password: macmillan@123
+Port=21
+Folder: root
+
+
+Faber
+files.fabermusic.com
+72019250
+XUAxHuA2eU4A2evB
+
+
+Harper USA
+Password= BwAndy#2023
+username= Harper Collins-USA
+ip = 103.20.212.13
+Port=21
+
+
+Penguin USA FTP. 
+user name: usateam
+Port=21
+Host Server : bookswagon.com / 103.20.212.55
+password: FTP@123wsx
+
+
+FTP INGRAM.
+Credentials
+URL: ftp.ingramcontent.com
+Port=22
+FTP User ID: w20Y2304
+password: 3ragjXor
+
+
+GARDNER BIBLIO FTPS:
+ftp://data.gardners.com
+Port=21
+BWE001FTP
+9L7PS9L9P5
+
+
+BookAzine Primary
+ftp.bookazine.com
+Port=21
+Bookinvntry
+zbk90#vx
+
+
+BookAzine Secondary
+ftp.bzvirtual.com 
+Port=21
+bvt_siteftp
+937081
+
+
+Bookswagon Live
+ftp.bookswagon.com
+Port=21	
+User=bookswagon	
+Password=bWs21#&09
+
+
+CBL UK
+host - 46.183.13.51
+user -  bookswagon
+pass - oTbqTYZc5pu5
+Port - 21
+
+
+SPRINGER NATURE
+host: bookswagon.com / 103.20.212.55
+user: springer
+paswd: Bw@9311#edc
+Port - 21
+
+
+name : BWG FEEDS FTP
+ip : 103.181.21.249
+ad : ftp.bwgallfeeds.in
+user : bwg249
+passwd : D!o@c#s$123
+port : 21
+
+
+Name: Eurspan USA
+hostname : 103.20.212.139
+User Name - Eurospan
+password - rkqwq@091
+
+
+TURNAROUND FTP
+host : 103.20.212.55
+user : ftpu2
+psw : 9pRHuA5R
+
+
+UKP FTP 1
+HostName = bookswagon.com / 103.20.212.55
+UserName = ftpu1
+Password = Pko123%*567
+
+
+UKP FTP 2 [BIBLIO]
+HostName = ftp3.paperbackshop.co.uk
+UserName = SReCommerce
+Password = wyEALRA2BYBedrryqR
